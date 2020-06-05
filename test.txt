@@ -1,3 +1,2 @@
 Nowy komentarz do pliku.
 Ten komentarz jest tymczasowy.
-Dodanie nowej experymentalnej zawartości.
