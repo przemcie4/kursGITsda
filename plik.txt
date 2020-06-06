@@ -1,0 +1,1 @@
+Dodanie nowej funkcji w pliku "plik.txt"
